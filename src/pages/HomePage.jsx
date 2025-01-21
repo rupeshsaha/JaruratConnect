@@ -24,7 +24,7 @@ const HomePage = () => {
                 Bridging the gap between resources and needs - providing
                 education, healthcare, and nutrition to those who need it most.
               </p>
-              <div className="flex flex-wrap gap-4">
+              <div className="flex flex-wrap gap-4 sm:justify-normal justify-between">
                 <a
                   href="#seek-help"
                   className="bg-blue-600 hover:bg-blue-700 px-8 py-3 rounded-full text-lg font-semibold transition-all duration-300   __pulse  __infinite"
